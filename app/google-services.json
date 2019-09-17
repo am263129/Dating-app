@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "180288154829",
+    "firebase_url": "https://phantom-cb0ce.firebaseio.com",
+    "project_id": "phantom-cb0ce",
+    "storage_bucket": "phantom-cb0ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180288154829:android:b07abe7e53dd1515180d84",
+        "android_client_info": {
+          "package_name": "com.dz.tlakina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180288154829-ib5lstsk41h1c2j9snns66kdun0tmseu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk3bOsKlzNGx1eVkOvxy-lWR7gsRBLHzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180288154829-ib5lstsk41h1c2j9snns66kdun0tmseu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
